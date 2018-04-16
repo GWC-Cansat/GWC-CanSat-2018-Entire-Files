@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"3D_PACKAGE";"ALLIED_NUMBER";"DESCRIPTION";"HEIGHT";"MANUFACTURER_NAME";"MANUFACTURER_PART_NUMBER";"OTHER_PART_NUMBER";"RS_PART_NUMBER";"SUPPLIER_NAME";
+"1";"";"JP1E";"JP1";"JP1";"JUMPER";"";"";"";"";"";"";"";"";"";
+"1";"1.8K";"R-EU_0204/2V";"0204V";"R5";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";
+"1";"100K";"R-EU_0204/2V";"0204V";"R3";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";
+"2";"100µF";"CPOL-EU085CS-1AR";"085CS_1AR";"C1, C2";"POLARIZED CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"";
+"1";"150K";"R-EU_0204/2V";"0204V";"R4";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";
+"2";"1K";"R-EU_0204/2V";"0204V";"R1, R2";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";
+"4";"1N4007GP-E3_54";"1N4007GP-E3_54";"DIOAD1405W86L465D235";"D1, D3, D4, D5";"Vishay 1N4007GP-E3/54, Switching Diode, 1000V 1A, 2000ns, 2-Pin DO-204AL";"";"";"Vishay 1N4007GP-E3/54, Switching Diode, 1000V 1A, 2000ns, 2-Pin DO-204AL";"mm";"Vishay";"1N4007GP-E3/54";"";"7087984P";"RS";
+"1";"1N914";"1N914";"DIO_1N914";"D2";"Small Signal Diode";"";"";"Small Signal Diode";"mm";"Fairchild Semiconductor";"1N914";"";"";"RS";
+"1";"2N4401RLRAG";"2N4401RLRAG";"TO-92";"Q3";"Transistor NPN 40V 600mA TO92 ON Semi 2N4401RLRAG NPN Bipolar Transistor,  600 mA 40 V, 3-Pin TO-92";"";"70100181";"Transistor NPN 40V 600mA TO92 ON Semi 2N4401RLRAG NPN Bipolar Transistor,  600 mA 40 V, 3-Pin TO-92";"mm";"ON Semiconductor";"2N4401RLRAG";"";"7925476";"RS";
+"1";"2N4403";"2N4403";"TO160P419X482X533-3P";"Q1";"MULTICOMP - 2N4403 - TRANSISTOR, PNP, -40V, -0.6A, TO-92";"";"";"MULTICOMP - 2N4403 - TRANSISTOR, PNP, -40V, -0.6A, TO-92";"4.19mm";"MULTICOMP";"2N4403";"";"";"RS";
+"1";"2P2T";"2P2T";"2P2T";"S1";"SLIDE SWITCH 2P2T Part No. SS-22F05-G(A)4";"";"";"";"";"";"";"";"";"";
+"3";"B58031I7504M062";"B58031I7504M062";"CAPPC10878X450N";"C3, C4, C5";"EPCOS - B58031I7504M062 - CAP, MLCC, AEC-Q200, 0.5UF, 700V, SMD";"";"";"EPCOS - B58031I7504M062 - CAP, MLCC, AEC-Q200, 0.5UF, 700V, SMD";"4.5mm";"EPCOS";"B58031I7504M062";"";"";"RS";
+"1";"MPSA42";"MPSA42";"TO127P254X635-3";"Q2";"Transistor";"";"";"Transistor";"mm";"Fairchild Semiconductor";"MPSA42";"";"1241357";"RS";
+"1";"P1200";"P1200";"HDRV4W100P762X1270_2X2_1800X18";"T1";"ETAL - P1200 - TRANSFORMER, LINE MATCHING, V.32 BIS";"";"";"ETAL - P1200 - TRANSFORMER, LINE MATCHING, V.32 BIS";"12.6mm";"ETAL";"P1200";"";"";"RS";
