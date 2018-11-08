@@ -1,1 +1,2 @@
-# GWC Cansat 2018 Entire Files
+# GWC CanSat 2017-2018 Files
+All completed files used for CanSat 2018
